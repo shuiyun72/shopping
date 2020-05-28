@@ -1,0 +1,60 @@
+.wm {
+  margin: 0 auto;
+}
+.t_center {
+  text-align: center;
+}
+.login {
+  padding: 0 60rpx 0 60rpx;
+}
+.login_logo {
+  height: 300rpx;
+  width: 630rpx;
+}
+.icon_input_sy {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-bottom: 3rpx solid #eee;
+  padding: 50rpx 12rpx 12rpx;
+}
+.icon_input_sy .iconfont {
+  font-size: 20px;
+}
+.icon_input_sy .input {
+  font-size: 14px;
+  padding: 4rpx 10rpx 4rpx;
+  margin-left: 12rpx;
+  width: 300rpx;
+}
+.icon_input_sy .yzm {
+  font-size: 12px;
+  color: #FF647C;
+  border-left: 6rpx solid #ddd;
+  height: 40rpx;
+  padding-left: 26rpx;
+}
+.icon_input_sy .yzm .span {
+  padding-top: 2rpx;
+}
+.login_p3 {
+  padding: 150rpx 0 100rpx;
+}
+.red2_btn {
+  background-color: #ff3152;
+  color: #fff;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+}
+.login_p4 {
+  text-align: center;
+}
+.login_p4 .t {
+  font-size: 14px;
+  color: #999;
+}
+.login_p4 .img {
+  height: 200rpx;
+  width: 100%;
+}
+

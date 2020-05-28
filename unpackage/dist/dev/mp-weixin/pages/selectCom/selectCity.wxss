@@ -1,0 +1,13 @@
+.side_sear {
+  position: fixed;
+  top: 160rpx;
+  right: 0;
+}
+.side_sear .item {
+  padding: 3px 6px;
+  margin-bottom: 3px;
+  background-color: #eee;
+  font-size: 12px;
+  text-align: center;
+}
+

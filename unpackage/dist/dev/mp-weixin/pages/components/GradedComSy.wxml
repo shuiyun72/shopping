@@ -1,0 +1,1 @@
+<view class="graded_com_sy"><block wx:for="{{num}}" wx:for-item="t" wx:for-index="i"><view class="iconfont iconxingxing active"></view></block><block wx:for="{{5-num}}" wx:for-item="t" wx:for-index="i"><view class="iconfont iconxingxing"></view></block><view class="fen">{{''+num+'分'}}</view></view>

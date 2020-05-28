@@ -1,0 +1,141 @@
+{
+	"pages": [
+		
+		{
+			"path": "pages/home/home",
+			"style": {
+				"navigationStyle": "custom"
+			}
+		},
+		{
+			"path": "pages/mine/mine",
+			"style": {
+				"navigationBarTitleText": "填写车辆信息"
+			}
+		},
+		{
+			"path": "pages/selectCom/selectShop",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/selectCom/selectShop2",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		},
+		{
+			"path": "pages/selectCom/selectCity",
+			"style": {
+				"navigationBarTitleText": "城市选择"
+			}
+		},
+		{
+			"path": "pages/login/salesmanLogin",
+			"style": {}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "汇中原吃喝玩乐系统登录"
+			}
+		},
+		{
+			"path": "pages/classify/classify",
+			"style": {
+				"navigationBarTitleText": "店铺"
+			}
+		},
+		{
+			"path": "pages/nearby/nearby",
+			"style": {}
+		},
+		{
+			"path": "pages/optimization/optimization",
+			"style": {}
+		},
+		{
+			"path": "pages/order/order",
+			"style": {}
+		},
+		
+
+		{
+			"path": "pages/salesmanHome/salesmanHome",
+			"style": {}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-ui基础项目"
+			}
+		}
+	    ,{
+            "path" : "pages/home/msg",
+            "style" : {
+				"navigationBarTitleText": "系统消息"
+			}
+        }
+        ,{
+            "path" : "pages/home/cate",
+            "style" : {
+				"navigationBarTitleText": "美食"
+			}
+        }
+        ,{
+            "path" : "pages/main/main",
+            "style" : {
+				"navigationBarTitleText":"车辆信息",
+				"navigationBarBackgroundColor":"#2C405A",
+				"navigationBarTextStyle":"white",
+				"navigationStyle":"default",
+				"backgroundColor":"#4CD964"
+			}
+        }
+    ],
+	"globalStyle": {
+		// "navigationBarTextStyle": "white",
+		// "navigationBarTitleText": "uni-app",
+		// "navigationBarBackgroundColor": "#007AFF",
+		// "backgroundColor": "#FFFFFF",	
+		"navigationBarTitleText": "",
+		"navigationBarBackgroundColor": "#fff",
+		"navigationBarTextStyle": "black"
+		// "navigationStyle":"custom"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#ff4160",
+		"borderStyle": "black",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/home/home",
+				"iconPath": "static/icon/i1.jpg",
+				"selectedIconPath": "static/icon/ic1.jpg",
+				"text": "首页"
+			},
+			{
+				"pagePath": "pages/nearby/nearby",
+				"iconPath": "static/icon/i2.jpg",
+				"selectedIconPath": "static/icon/ic2.jpg",
+				"text": "附近"
+			}, {
+				"pagePath": "pages/optimization/optimization",
+				"iconPath": "static/icon/i3.jpg",
+				"selectedIconPath": "static/icon/ic3.jpg",
+				"text": "优选"
+			}, {
+				"pagePath": "pages/order/order",
+				"iconPath": "static/icon/i4.jpg",
+				"selectedIconPath": "static/icon/ic4.jpg",
+				"text": "订单"
+			}, {
+				"pagePath": "pages/mine/mine",
+				"iconPath": "static/icon/i5.jpg",
+				"selectedIconPath": "static/icon/ic5.jpg",
+				"text": "我的"
+			}
+		]
+	}
+}

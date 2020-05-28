@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "店铺",
+  "usingComponents": {
+    "grade-com-sy": "/pages/components/GradedComSy"
+  }
+}

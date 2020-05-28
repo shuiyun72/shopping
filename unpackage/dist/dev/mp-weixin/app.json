@@ -1,0 +1,65 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/mine/mine",
+    "pages/selectCom/selectShop",
+    "pages/selectCom/selectShop2",
+    "pages/selectCom/selectCity",
+    "pages/login/salesmanLogin",
+    "pages/login/login",
+    "pages/classify/classify",
+    "pages/nearby/nearby",
+    "pages/optimization/optimization",
+    "pages/order/order",
+    "pages/salesmanHome/salesmanHome",
+    "pages/index/index",
+    "pages/home/msg",
+    "pages/home/cate",
+    "pages/main/main"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTitleText": "",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#ff4160",
+    "borderStyle": "black",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "iconPath": "static/icon/i1.jpg",
+        "selectedIconPath": "static/icon/ic1.jpg",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/nearby/nearby",
+        "iconPath": "static/icon/i2.jpg",
+        "selectedIconPath": "static/icon/ic2.jpg",
+        "text": "附近"
+      },
+      {
+        "pagePath": "pages/optimization/optimization",
+        "iconPath": "static/icon/i3.jpg",
+        "selectedIconPath": "static/icon/ic3.jpg",
+        "text": "优选"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "iconPath": "static/icon/i4.jpg",
+        "selectedIconPath": "static/icon/ic4.jpg",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "iconPath": "static/icon/i5.jpg",
+        "selectedIconPath": "static/icon/ic5.jpg",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

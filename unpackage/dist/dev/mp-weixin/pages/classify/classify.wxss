@@ -1,0 +1,18 @@
+.classify_nav_bar_sy {
+  width: 100%;
+  white-space: nowrap;
+  padding: 20rpx 0;
+  height: 36px;
+}
+.classify_nav_bar_sy .item {
+  font-size: 14px;
+  color: #333;
+  border-bottom: 2px solid transparent;
+  margin: 0rpx 20rpx;
+  padding-bottom: 10rpx;
+}
+.classify_nav_bar_sy .item.active {
+  border-bottom: 2px solid #f00;
+  color: #f00;
+}
+

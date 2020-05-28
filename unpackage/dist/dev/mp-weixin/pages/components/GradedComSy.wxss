@@ -1,0 +1,15 @@
+.graded_com_sy .iconxingxing {
+  display: inline-block;
+  color: #D0D2CF;
+  font-size: 14px;
+  margin: 6rpx;
+}
+.graded_com_sy .iconxingxing.active {
+  color: #FF726B;
+}
+.graded_com_sy .fen {
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 12rpx;
+}
+

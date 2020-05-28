@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "车辆信息",
+  "navigationBarBackgroundColor": "#2C405A",
+  "navigationBarTextStyle": "white",
+  "navigationStyle": "default",
+  "backgroundColor": "#4CD964",
+  "usingComponents": {
+    "uni-tag": "/components/uni-tag/uni-tag"
+  }
+}

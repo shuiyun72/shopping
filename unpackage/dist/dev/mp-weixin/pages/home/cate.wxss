@@ -1,0 +1,19 @@
+.cate_body {
+  margin: 20rpx 30rpx;
+}
+.cate_body .title {
+  font-size: 16px;
+  text-align: center;
+}
+.cate_body .time {
+  font-size: 12px;
+  color: #999;
+  text-align: center;
+}
+.cate_body .text {
+  margin: 30rpx 0;
+  font-size: 14px;
+  color: #666;
+  line-height: 22px;
+}
+
